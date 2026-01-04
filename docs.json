@@ -27,7 +27,8 @@
           {
             "group": "About",
             "pages": [
-              "nano-tap/about/about-nano-tap"
+              "nano-tap/about/about-nano-tap",
+              "nano-tap/about/installing-nano-tap"
             ]
           }
         ]
