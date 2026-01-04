@@ -14,9 +14,20 @@
         "tab": "Guides",
         "groups": [
           {
-            "group": "Getting started",
+            "group": "General",
             "pages": [
               "index"
+            ]
+          }
+        ]
+      },
+      {
+        "tab": "NanoTap",
+        "groups": [
+          {
+            "group": "About",
+            "pages": [
+              "nano-tap/about/about-nano-tap"
             ]
           }
         ]
@@ -59,7 +70,7 @@
     }
   },
   "search": {
-    "prompt": "Chat with SE AI"
+    "prompt": "Search"
   },
   "styling": {
     "latex": true
